@@ -13,7 +13,7 @@
   <a href="http://qiita.com/krpk1900">
     <img height="30" src="https://qiita-badge.apiapi.app/s/krpk1900/posts.svg" />
   </a>
-  <//qiita.com/krpk1900">
+  <a href="http://qiita.com/krpk1900">
     <img height="30" src="https://qiita-badge.apiapi.app/s/krpk1900/contributions.svg" />
   </a>
 </p>
