@@ -10,3 +10,5 @@
     <img height="30" src="https://komarev.com/ghpvc/?username=krpk1900" alt="krpk1900" />
   </a>
 </p>
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/krpk1900/posts.svg)](http://qiita.com/krpk1900)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/krpk1900/contributions.svg)](http://qiita.com/krpk1900)
