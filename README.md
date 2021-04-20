@@ -5,10 +5,10 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krpk1900&layout=compact&count_private=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krpk1900&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krpk1900&theme=github)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krpk1900&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krpk1900&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krpk1900&theme=github)
 
 <p align="left">
   <!--
