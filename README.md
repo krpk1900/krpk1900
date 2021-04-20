@@ -28,6 +28,6 @@
 
 # 個人開発
 
-[https://sekigae.jp/](https://sekigae.jp/)
+[席替えメーカー](https://sekigae.jp/)
 
 ![席替えメーカー16](https://user-images.githubusercontent.com/72296262/111739284-26282780-88c6-11eb-8442-3c212e3eea27.gif)
