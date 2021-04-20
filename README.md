@@ -3,11 +3,11 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krpk1900&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krpk1900&theme=nord_dark)
 
-<p align="left">
+<!--<p align="left">-->
   <a href="http://qiita.com/krpk1900">
     <img height="30" src="https://qiita-badge.apiapi.app/s/krpk1900/contributions.svg" />
   </a>
-</p>
+<!--</p>-->
 
 # 個人開発
 ### [席替えメーカー](https://sekigae.jp/)
