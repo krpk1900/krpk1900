@@ -26,7 +26,7 @@
   </a>
 </p>
 
-## 個人開発
+# 個人開発
 
 [https://sekigae.jp/](https://sekigae.jp/)
 
