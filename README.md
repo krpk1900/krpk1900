@@ -25,3 +25,9 @@
     <img height="30" src="https://qiita-badge.apiapi.app/s/krpk1900/contributions.svg" />
   </a>
 </p>
+
+## 個人開発
+
+[https://sekigae.jp/](https://sekigae.jp/)
+
+![席替えメーカー16](https://user-images.githubusercontent.com/72296262/111739284-26282780-88c6-11eb-8442-3c212e3eea27.gif)
