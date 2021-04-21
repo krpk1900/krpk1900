@@ -11,5 +11,5 @@
 ### [席替えメーカー](https://sekigae.jp/)
 
 <a href="http://qiita.com/krpk1900">
-  <img width="70%" src="https://user-images.githubusercontent.com/72296262/115614380-9f34f780-a328-11eb-93eb-a8b020c04b2f.gif" />
+  <img width="80%" src="https://user-images.githubusercontent.com/72296262/115614380-9f34f780-a328-11eb-93eb-a8b020c04b2f.gif" />
 </a>
