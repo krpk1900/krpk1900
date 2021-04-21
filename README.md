@@ -10,6 +10,6 @@
 # 個人開発
 ### [席替えメーカー](https://sekigae.jp/)
 
-<a href="http://qiita.com/krpk1900">
+<a href="https://sekigae.jp/">
   <img width="80%" src="https://user-images.githubusercontent.com/72296262/115614380-9f34f780-a328-11eb-93eb-a8b020c04b2f.gif" />
 </a>
