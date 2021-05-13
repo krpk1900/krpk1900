@@ -17,5 +17,5 @@
 ### [Terai Shogo's Portfolio](https://krpk1900.com/)
 
 <a href="https://krpk1900.com/">
-  <img width="80%" src="https://gyazo.com/e55d9e68b6effedf0ab0049e243fced4" />
+  <img width="80%" src="https://i.gyazo.com/e55d9e68b6effedf0ab0049e243fced4.png">
 </a>
