@@ -1,7 +1,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krpk1900&theme=nord_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krpk1900&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krpk1900&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krpk1900&theme=nord_dark)
 
 <a href="http://qiita.com/krpk1900">
   <img height="30" src="https://qiita-badge.apiapi.app/s/krpk1900/contributions.svg" />
