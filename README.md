@@ -18,11 +18,11 @@
 ### [世界一セキュリティが堅牢なアプリ](https://perfect-security.jp/)
 
 <a href="https://perfect-security.jp/">
-  <img width="50%" src="https://user-images.githubusercontent.com/72296262/122736426-fb7dae80-d2ba-11eb-8c18-9f56fef17568.gif" />
+  <img width="40%" src="https://user-images.githubusercontent.com/72296262/122736426-fb7dae80-d2ba-11eb-8c18-9f56fef17568.gif" />
 </a>
 
 ### [Terai Shogo's Portfolio](https://krpk1900.com/)
 
 <a href="https://krpk1900.com/">
-  <img width="80%" src="https://i.gyazo.com/e55d9e68b6effedf0ab0049e243fced4.png">
+  <img width="70%" src="https://i.gyazo.com/e55d9e68b6effedf0ab0049e243fced4.png">
 </a>
