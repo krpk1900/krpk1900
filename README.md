@@ -18,7 +18,7 @@
 ### [世界一セキュリティが堅牢なアプリ](https://perfect-security.jp/)
 
 <a href="https://perfect-security.jp/">
-  <img width="80%" src="https://user-images.githubusercontent.com/72296262/122728932-97a3b780-d2b3-11eb-935c-7ba765fd1830.gif" />
+  <img width="50%" src="https://user-images.githubusercontent.com/72296262/122736426-fb7dae80-d2ba-11eb-8c18-9f56fef17568.gif" />
 </a>
 
 ### [Terai Shogo's Portfolio](https://krpk1900.com/)
