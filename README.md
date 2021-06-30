@@ -26,3 +26,15 @@
 <a href="https://krpk1900.com/">
   <img width="70%" src="https://i.gyazo.com/e55d9e68b6effedf0ab0049e243fced4.png">
 </a>
+
+### [SlackスタンプBot](https://github.com/krpk1900/AddStampsBot)
+
+<a href="https://github.com/krpk1900/AddStampsBot">
+  <img width="70%" src="https://user-images.githubusercontent.com/72296262/109511037-03d09480-7ae6-11eb-8445-3a07d6a5a39c.gif">
+</a>
+
+### [AmongUs参加者選別Bot](https://github.com/krpk1900/SelectingAmongUsPlayersBot)
+
+<a href="https://github.com/krpk1900/SelectingAmongUsPlayersBot">
+  <img width="70%" src="https://user-images.githubusercontent.com/72296262/109512374-61b1ac00-7ae7-11eb-9343-484fd48e8b85.gif">
+</a>
