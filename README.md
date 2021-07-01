@@ -30,7 +30,7 @@
 ### [SlackスタンプBot](https://github.com/krpk1900/AddStampsBot)
 
 <a href="https://github.com/krpk1900/AddStampsBot">
-  <img width="70%" src="https://user-images.githubusercontent.com/72296262/109511037-03d09480-7ae6-11eb-8445-3a07d6a5a39c.gif">
+  <img width="70%" src="https://user-images.githubusercontent.com/72296262/124067185-e9e39600-da74-11eb-99f9-1ab0e8557425.gif">
 </a>
 
 ### [AmongUs参加者選別Bot](https://github.com/krpk1900/SelectingAmongUsPlayersBot)
