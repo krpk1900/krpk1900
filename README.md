@@ -21,6 +21,12 @@
   <img width="40%" src="https://user-images.githubusercontent.com/72296262/122736426-fb7dae80-d2ba-11eb-8c18-9f56fef17568.gif" />
 </a>
 
+### [大谷メーター](https://chrome.google.com/webstore/detail/ohtanimeter/pbipgkaadgdbakhonngkopmnofndhdem)
+
+<a href="https://chrome.google.com/webstore/detail/ohtanimeter/pbipgkaadgdbakhonngkopmnofndhdem">
+  <img width="40%" src="https://user-images.githubusercontent.com/72296262/122736426-fb7dae80-d2ba-11eb-8c18-9f56fef17568.gif" />
+</a>
+
 ### [Terai Shogo's Portfolio](https://krpk1900.com/)
 
 <a href="https://krpk1900.com/">
