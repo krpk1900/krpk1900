@@ -33,6 +33,12 @@
   <img width="70%" src="https://i.gyazo.com/e55d9e68b6effedf0ab0049e243fced4.png">
 </a>
 
+### [卍解コマンド](https://github.com/krpk1900/bankai)
+
+<a href="https://github.com/krpk1900/bankai">
+  <img width="70%" src="https://user-images.githubusercontent.com/72296262/147408044-8898267b-f1b0-4027-97fd-435fed48579b.gif">
+</a>
+
 ### [SlackスタンプBot](https://github.com/krpk1900/AddStampsBot)
 
 <a href="https://github.com/krpk1900/AddStampsBot">
