@@ -30,13 +30,13 @@
 ### [Webエンジニアのくせに解けねぇ奴いる？](https://programming-quiz.com/)
 
 <a href="https://programming-quiz.com/">
-  <img width="70%" src="https://user-images.githubusercontent.com/72296262/148762594-f9cd80ea-99e5-430e-bac1-93908942a927.gif">
+  <img width="50%" src="https://user-images.githubusercontent.com/72296262/148762594-f9cd80ea-99e5-430e-bac1-93908942a927.gif">
 </a>
 
 ### [卍解コマンド](https://github.com/krpk1900/bankai)
 
 <a href="https://github.com/krpk1900/bankai">
-  <img width="70%" src="https://user-images.githubusercontent.com/72296262/147408044-8898267b-f1b0-4027-97fd-435fed48579b.gif">
+  <img width="60%" src="https://user-images.githubusercontent.com/72296262/147408044-8898267b-f1b0-4027-97fd-435fed48579b.gif">
 </a>
 
 ### [Terai Shogo's Portfolio](https://krpk1900.com/)
