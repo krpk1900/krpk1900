@@ -1,7 +1,9 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krpk1900&theme=nord_dark)
-
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krpk1900&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krpk1900&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krpk1900&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krpk1900&theme=nord_dark) -->
+![](https://raw.githubusercontent.com/krpk1900/krpk1900/main/profile-summary-card-output/nord_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/krpk1900/krpk1900/main/profile-summary-card-output/nord_dark/3-stats.svg)
+![](https://raw.githubusercontent.com/krpk1900/krpk1900/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=krpk1900&theme=nord)
 
 <a href="http://qiita.com/krpk1900">
