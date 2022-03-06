@@ -14,13 +14,13 @@
 ### [席替えメーカー](https://sekigae.jp/)
 
 <a href="https://sekigae.jp/">
-  <img width="80%" src="https://user-images.githubusercontent.com/72296262/115614380-9f34f780-a328-11eb-93eb-a8b020c04b2f.gif" />
+  <img width="60%" src="https://user-images.githubusercontent.com/72296262/115614380-9f34f780-a328-11eb-93eb-a8b020c04b2f.gif" />
 </a>
 
 ### [世界一セキュリティが堅牢なアプリ](https://perfect-security.jp/)
 
 <a href="https://perfect-security.jp/">
-  <img width="50%" src="https://user-images.githubusercontent.com/72296262/122736426-fb7dae80-d2ba-11eb-8c18-9f56fef17568.gif" />
+  <img width="60%" src="https://user-images.githubusercontent.com/72296262/122736426-fb7dae80-d2ba-11eb-8c18-9f56fef17568.gif" />
 </a>
 
 ### [大谷メーター](https://chrome.google.com/webstore/detail/ohtanimeter/pbipgkaadgdbakhonngkopmnofndhdem)
@@ -29,10 +29,16 @@
   <img width="60%" src="https://user-images.githubusercontent.com/72296262/125817489-b6d41532-3548-40d6-8944-24a3e9666fa8.gif" />
 </a>
 
+### [甦れIE](https://chrome.google.com/webstore/detail/%E7%94%A6%E3%82%8Cie/lhmdcacnhmmbfjagjcjpgedpaoamkocm)
+
+<a href="https://chrome.google.com/webstore/detail/%E7%94%A6%E3%82%8Cie/lhmdcacnhmmbfjagjcjpgedpaoamkocm">
+  <img width="60%" src="https://user-images.githubusercontent.com/72296262/156818524-ff2b1fef-d41e-4334-91f3-ebc5f03364f8.gif" />
+</a>
+
 ### [Webエンジニアのくせに解けねぇ奴いる？](https://programming-quiz.com/)
 
 <a href="https://programming-quiz.com/">
-  <img width="50%" src="https://user-images.githubusercontent.com/72296262/148762594-f9cd80ea-99e5-430e-bac1-93908942a927.gif">
+  <img width="60%" src="https://user-images.githubusercontent.com/72296262/148762594-f9cd80ea-99e5-430e-bac1-93908942a927.gif">
 </a>
 
 ### [卍解コマンド](https://github.com/krpk1900/bankai)
@@ -44,17 +50,17 @@
 ### [Terai Shogo's Portfolio](https://krpk1900.com/)
 
 <a href="https://krpk1900.com/">
-  <img width="70%" src="https://i.gyazo.com/e55d9e68b6effedf0ab0049e243fced4.png">
+  <img width="60%" src="https://i.gyazo.com/e55d9e68b6effedf0ab0049e243fced4.png">
 </a>
 
 ### [SlackスタンプBot](https://github.com/krpk1900/AddStampsBot)
 
 <a href="https://github.com/krpk1900/AddStampsBot">
-  <img width="70%" src="https://user-images.githubusercontent.com/72296262/124067185-e9e39600-da74-11eb-99f9-1ab0e8557425.gif">
+  <img width="60%" src="https://user-images.githubusercontent.com/72296262/124067185-e9e39600-da74-11eb-99f9-1ab0e8557425.gif">
 </a>
 
 ### [AmongUs参加者選別Bot](https://github.com/krpk1900/SelectingAmongUsPlayersBot)
 
 <a href="https://github.com/krpk1900/SelectingAmongUsPlayersBot">
-  <img width="70%" src="https://user-images.githubusercontent.com/72296262/124068771-1350f180-da76-11eb-9db4-ab9fc793ee5e.gif">
+  <img width="60%" src="https://user-images.githubusercontent.com/72296262/124068771-1350f180-da76-11eb-9db4-ab9fc793ee5e.gif">
 </a>
