@@ -49,7 +49,7 @@
 
 ### [Twitter GJ Carely](https://twitter.com/GJ_Carely)
 
-<a href="(https://twitter.com/GJ_Carely)">
+<a href="https://twitter.com/GJ_Carely">
   <img width="60%" src="https://user-images.githubusercontent.com/72296262/169684749-bc2b1e1b-14b8-4078-b7c6-24b30eeb6b25.png" />
 </a>
 
