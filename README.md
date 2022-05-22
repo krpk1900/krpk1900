@@ -47,9 +47,9 @@
   <img width="60%" src="https://user-images.githubusercontent.com/72296262/147408044-8898267b-f1b0-4027-97fd-435fed48579b.gif">
 </a>
 
-### [Twitter GJ Carely](https://twitter.com/GJ_Carely)
+### [Twitter GJ Carely](https://dev.icare.jpn.com/dev_cat/twitter_gj_carely/)
 
-<a href="https://twitter.com/GJ_Carely">
+<a href="https://dev.icare.jpn.com/dev_cat/twitter_gj_carely/">
   <img width="60%" src="https://user-images.githubusercontent.com/72296262/169684749-bc2b1e1b-14b8-4078-b7c6-24b30eeb6b25.png" />
 </a>
 
