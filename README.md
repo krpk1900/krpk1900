@@ -4,7 +4,7 @@
 ![](https://raw.githubusercontent.com/krpk1900/krpk1900/main/profile-summary-card-output/nord_dark/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/krpk1900/krpk1900/main/profile-summary-card-output/nord_dark/3-stats.svg)
 ![](https://raw.githubusercontent.com/krpk1900/krpk1900/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)
-![](https://github-readme-streak-stats.herokuapp.com/?user=krpk1900&theme=nord)
+![](https://readme-streak-stats-krpk1900.herokuapp.com/?user=krpk1900&theme=nord)
 
 <a href="http://qiita.com/krpk1900">
   <img height="30" src="https://qiita-badge.apiapi.app/s/krpk1900/contributions.svg" />
