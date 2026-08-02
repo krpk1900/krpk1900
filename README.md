@@ -1,17 +1,13 @@
 # 寺井 省吾 (@krpk1900)
 
-# 経歴
-
----
+## 🔭 経歴
 
 - 2023/04 - 現在       ：株式会社YOUTRUST
 - 2021/08 - 2023/03：株式会社iCARE
 - 2020/04 - 2020/08：中学校数学教諭
 - 2016/04 - 2020/03：大阪大学 基礎工学部 情報科学科
 
-# SNS
-
----
+## 🌎 SNS
 
 - [X](https://twitter.com/krpk1900_dev)
 - [YOUTRUST](https://youtrust.jp/users/krpk1900)
@@ -22,9 +18,7 @@
 - [Facebook](https://www.facebook.com/krpk1900/)
 - [Wantedly](https://www.wantedly.com/id/krpk1900)
 
-# 技術記事
-
----
+## 📗 技術記事
 
 - [2026/07/03：【YOUTRUST Tech Blog】YOUTRUSTで一番重い計算をMySQLからRedisへ移行したことで、レスポンスタイムを77%削減した話](https://tech.youtrust.co.jp/entry/redis_performance_optimization)
 - [2026/04/28：【YOUTRUST Tech Blog】RubyKaigi 2026 参加レポート](https://tech.youtrust.co.jp/entry/rubykaigi2026)
@@ -60,11 +54,7 @@
 - [2021/03/13：【Qiita】【個人開発】これまでになかった席替えアプリ「席替えメーカー」を作りました](https://qiita.com/krpk1900/items/22963432b62a9004717c)
 - [2020/12/29：【Qiita】駆け出しエンジニアがすべきGitHub活用術](https://qiita.com/krpk1900/items/5f81e6e4524afebcdc62)
 
-
-
-# 登壇
-
----
+## 🎤 登壇
 
 - 2026/07/16：【RailsTokyo#5】Railsエンジニアが始めるSRE
 - [2025/01/28：【BuriKaigi 2025】富山発の個人開発サービスで日本中の学校の業務を改善した話](https://fortee.jp/burikaigi-2025/proposal/8791d646-b0d5-4789-bdb3-e68273b77e12)
@@ -91,11 +81,7 @@
 - [2021/11/20：【企業教育研究会】テクノロジーを活用した学校教育のアップデートを考えよう](https://ace-npo.org/wp/archives/study/cjk146)
 - [2021/10/31：【とにほめLT会】席替え市場No.1を取るためにやったすべてのこと](https://tonihome.connpass.com/event/226238/)
 
-
-
-# イベント運営
-
----
+## 🙌 イベント運営
 
 - [2026/02/13：Rails Girls Tokyo 18th Coach](https://railsgirls.com/tokyo-2026-02-13.html)
 - [2025/09/26：Kaigi on Rails 2025 Organizer](https://kaigionrails.org/2025/team/)
@@ -107,11 +93,7 @@
 - [2022/09/08：RubyKaigi 2022 Helper](https://rubykaigi.org/2022/about/)
 - [2022/07/29：Rails Girls Tokyo 14th Coach](https://railsgirls.com/tokyo-2022-07-30.html)
 
-
-
-# 資格
-
----
+## 🏅 資格
 
 - 2025/05/25：AWS Certified Developer Associate (DVA)
 - 2023/07/02：AWS Certified SysOps Administrator Associate (SOA)
@@ -122,11 +104,7 @@
 - 2022/06/24：応用情報技術者試験 (AP)
 - 2021/03/25：基本情報技術者試験 (FE)
 
-
-
-# インタビュー記事
-
----
+## 📰 インタビュー記事
 
 - [2024/12/19：バリューの体現者が語る『ユートラストーリー』チーム一丸となって目標を達成する喜び](https://note.com/youtrust_lab/n/n15d536abbeb3)
 - [2024/08/23：バリューの体現者が語る『ユートラストーリー』｜“YOUPROMISE賞”の栄誉と、これから。](https://note.com/youtrust_lab/n/n1b81c347e7be)
@@ -135,11 +113,7 @@
 - [2022/06/17：教員からエンジニアへ。今ここでしか経験できない仕事に挑戦できる幸運/みんなで選ぶCredo賞受賞 寺井インタビュー](https://note.icare-carely.co.jp/n/n5a39842c0a2c)
 - [2021/08/31：【Devチーム紹介_Vol.28】サーバーサイドエンジニア寺ちゃん](https://dev.icare.jpn.com/dev_cat/interview_terachan/)
 
-
-
-# 個人開発
-
----
+## 🛠 個人開発
 
 - [席替えメーカー](https://sekigae.jp/)
 - [世界一セキュリティが堅牢なアプリ](https://perfect-security.jp/)
@@ -151,11 +125,7 @@
 - [SlackスタンプBot](https://github.com/krpk1900/AddStampsBot)
 - [AmongUs参加者選別Bot](https://github.com/krpk1900/SelectingAmongUsPlayersBot)
 
-
-
-# note記事
-
----
+## ✍️ note記事
 
 - [2024/11/20：Kaigi on Rails 2024 を終えて](https://note.com/krpk1900/n/n3d66aff2b806)
 - [2023/12/31：全速力で走り切った2023年と、もっと走り続ける2024年](https://note.com/krpk1900/n/nc199ce2f9478)
@@ -171,4 +141,3 @@
 - [2021/03/19：現場で働く教師の業務改善のために、席替えアプリを作りました](https://note.com/krpk1900/n/n4453088b89dd)
 - [2020/12/12：自己紹介とnoteを始めた理由](https://note.com/krpk1900/n/n4c0c28aa9891)
 
----
