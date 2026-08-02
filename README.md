@@ -122,6 +122,7 @@
 
 #### 2026
 
+- [Kaigi on Rails 2026 Organizer](https://kaigionrails.org/2026/team/)
 - [Rails Girls Tokyo 18th Coach](https://railsgirls.com/tokyo-2026-02-13.html)
 
 #### 2025
